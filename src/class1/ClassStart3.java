@@ -5,7 +5,6 @@ public class ClassStart3 {
     public static void main(String[] args) {
         Student student1; // Student 객체 생성
         student1 = new Student(); // 클래스를 기반으로 'student1'객체(인스턴스) 생성
-
         // 객체에 값 대입
         student1.name = "학생1";
         student1.age = 15; // student1 객체의 name 멤버 변수에 값 대입
