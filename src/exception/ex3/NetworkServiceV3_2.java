@@ -1,6 +1,7 @@
-package exception.ex3.exception;
+package exception.ex3;
 
-import exception.ex3.NetworkClientV3;
+import exception.ex3.exception.ConnectExceptionV3;
+import exception.ex3.exception.NetworkClientExceptionV3;
 
 public class NetworkServiceV3_2 {
 
