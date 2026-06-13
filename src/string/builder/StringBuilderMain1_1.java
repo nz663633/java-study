@@ -1,4 +1,4 @@
-package string.method.builder;
+package string.builder;
 
 public class StringBuilderMain1_1 {
 
